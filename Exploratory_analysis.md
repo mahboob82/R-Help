@@ -1,13 +1,16 @@
 # Packages list
-  - explore
-  - install.packages('explore')
-
-```r
-mpg |> explore()
-```
+  - explore (install.packages('explore'))
 
  - DataExplorer
  - install.packages('DataExplorer')
 
-- https://indrajeetpatil.github.io/ggstatsplot/index.html
+- ggstatsplot (https://indrajeetpatil.github.io/ggstatsplot/index.html)
+- dlookr package
+- summarytools
+- smartEDA
+- gtsummary
+- moments (skewness)
+- ggpubr  (qqplot)
+- PerformanceAnalytics
+- fastStat
 - 
