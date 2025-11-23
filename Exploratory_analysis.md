@@ -13,4 +13,4 @@
 - ggpubr  (qqplot)
 - PerformanceAnalytics
 - fastStat
-- 
+- https://quarto-tdg.org/look-under-hood
